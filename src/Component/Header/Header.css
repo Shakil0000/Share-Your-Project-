@@ -1,0 +1,11 @@
+
+.header{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.header-text{
+   color: white;
+   text-align: center;
+}
